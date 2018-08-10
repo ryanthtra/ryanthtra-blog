@@ -26,7 +26,7 @@ SECRET_KEY = secret.security_key
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = secret.debug
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = secret.allowed_hosts
 
 
 # Application definition
