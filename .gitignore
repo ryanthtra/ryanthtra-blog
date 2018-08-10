@@ -1,3 +1,6 @@
+# My file of secret keys
+ryanthtrablog/ryanthtrablog/secret.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
